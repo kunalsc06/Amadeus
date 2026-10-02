@@ -4,13 +4,13 @@ A sleek cyberpunk-themed security monitoring platform that detects suspicious us
 Amadeus Dashboard
 
 ✨ Features:
-Real-time anomaly detection using Isolation Forest
-Live cyberpunk dashboard with neon infographics
-Auto-refreshing logs & charts every 5 seconds
-Interactive threat gauge, scatter plot, hourly heat map & anomaly timeline
-Searchable live activity log
-Persistent SQLite storage
-Beautiful glassmorphism + neon UI
+Real-time anomaly detection using Isolation Forest.
+Live cyberpunk dashboard with neon infographics.
+Auto-refreshing logs & charts every 5 seconds.
+Interactive threat gauge, scatter plot, hourly heat map & anomaly timeline.
+Searchable live activity log.
+Persistent SQLite storage.
+Beautiful glassmorphism + neon UI.
 
 🛠 Tech Stack
 Backend
